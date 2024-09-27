@@ -1,0 +1,63 @@
+*{
+    height: 0;
+    width: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.box1{
+    height: 600px;
+    width: 200px;
+    border: solid white;
+    margin-left: 500px;
+    margin-top: 50px;
+    border: 10px solid black;
+    border-radius: 20px;
+    
+}
+
+.sagar{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 50%;
+    
+}
+
+.sagar:hover{
+    background-color: black; /* change the background color on hover */
+    
+  }
+
+
+  .sagar1{
+height: 100px;
+width: 100px;
+background-color: yellow;
+margin-left: 50px;
+ margin-top: 50px;
+ border-radius: 50%;
+
+  }
+
+  .sagar1:hover{
+    background-color: black;
+  }
+
+  .sagar2{
+    height: 100px;
+width: 100px;
+background-color: green;
+margin-left: 50px;
+ margin-top: 50px;
+ border-radius: 50%;
+  }
+
+  .sagar2:hover{
+    background-color: black;
+  }
+
+
